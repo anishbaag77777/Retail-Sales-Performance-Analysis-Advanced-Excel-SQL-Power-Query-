@@ -47,3 +47,53 @@ The following data cleaning operations were performed using Excel Power Query Ed
 | 8        | Create Derived Columns | Added calculated columns for better analysis readiness                           |
 
 
+# Charts & Visualizations
+
+# ** 1. Sales by Fat Content**
+
+Objective: Analyze impact of fat content on total sales
+
+Additional KPIs: Average Sales, Number of Items, Average Rating
+
+Chart Type: Donut Chart
+
+# **2. Sales by Item Type**
+
+Objective: Identify performance of different product categories
+
+Additional KPIs: Average Sales, Number of Items, Average Rating
+
+Chart Type: Bar Chart
+
+# **3. Fat Content by Outlet (Sales Distribution)**
+
+Objective: Compare sales across outlets segmented by fat content
+
+Additional KPIs: Average Sales, Number of Items, Average Rating
+
+Chart Type: Stacked Column Chart
+
+# **4. Sales by Outlet Establishment**
+
+Objective: Analyze impact of outlet establishment type/age on sales performance
+
+Chart Type: Line Chart
+
+# **5. Sales by Outlet Size**
+
+Objective: Understand relationship between outlet size and sales
+
+Chart Type: Donut Chart
+
+# **6. Sales by Outlet Location**
+
+Objective: Analyze geographic distribution of sales
+
+Chart Type: Funnel Map
+
+# **7. All Metrics by Outlet Type**
+
+
+# Dashboard Preview
+
+![Dashboard](https://github.com/anishbaag77777/Retail-Sales-Performance-Analysis-Advanced-Excel-SQL-Power-Query-/blob/0216d66e0d0a7716f738a71de4d98a3178b18064/Dashboard.png)
