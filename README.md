@@ -97,3 +97,9 @@ Chart Type: Funnel Map
 # Dashboard Preview
 
 ![Dashboard](https://github.com/anishbaag77777/Retail-Sales-Performance-Analysis-Advanced-Excel-SQL-Power-Query-/blob/0216d66e0d0a7716f738a71de4d98a3178b18064/Dashboard.png)
+
+# Conclusion
+
+The Blinkit Sales Performance Analysis provides meaningful insights into sales trends, customer behavior, and inventory distribution across different outlet types, sizes, locations, and product categories.
+
+From the analysis, it is observed that certain item types and outlet categories contribute significantly to overall revenue, while others show lower performance and present opportunities for improvement. The impact of fat content, outlet establishment type, and location also highlights clear variations in sales patterns and customer preferences.
