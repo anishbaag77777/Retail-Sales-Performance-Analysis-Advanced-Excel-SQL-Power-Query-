@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis (BlinkIT)
+# Retail Sales Performance Analysis (Blinkit)
 This project analyzes Blinkit’s grocery sales data using Advanced Excel, SQL, and Power Query to uncover actionable business insights. It includes data cleaning, transformation, KPI analysis, sales trend analysis, product performance evaluation, and interactive dashboard creation. The project demonstrates practical data analytics techniques used in retail businesses to support data-driven decision-making.
 
 # **Business Requirement**
